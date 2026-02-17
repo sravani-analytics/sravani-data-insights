@@ -26,18 +26,20 @@ My career journey bridges **engineering expertise** with **data-driven insights*
 ---
 
 ## 🏆 Achievements
-- Delivered analytics automation projects that reduced manual reporting time by 40%  
+- Developed interactive Power BI dashboards that streamlined feature validation review meetings, improving clarity and reducing manual reporting time.
 - Led a team of 5 engineers to complete embedded + analytics integration ahead of schedule  
-- Awarded "Best Engineer – Embedded Systems" at HCL Technologies (2022)  
+- Automated complex data processing workflows in Python, cutting down repetitive tasks and saving significant team effort.
+- Delivered analytics driven client presentations that translated testing insights and UI behavior trends into clear business recommendations.
+- Optimized reporting processes in Excel and SQL, enabling faster turnaround of performance metrics and actionable insights.
+- Bridged engineering and analytics expertise, applying embedded systems knowledge to strengthen data visualization and problem solving approaches.
 - Successfully transitioned into analytics by completing Skillovilla capstone projects in Python & Power BI  
 
 ---
 
 ## 📜 Certifications
-- Microsoft Certified: Data Analyst Associate  
-- Power BI Advanced Training – Skillovilla  
-- Python for Data Analytics – Coursera  
-- SQL for Business Analytics – Udemy  
+- Power BI Advanced Training – Skillovilla  [Certifications](./39D3ZBTL)
+- Python for Data Analytics – Coursera  [Company provied In-person Training]
+
 
 ---
 
