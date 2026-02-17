@@ -12,7 +12,13 @@ My career journey bridges **engineering expertise** with **data-driven insights*
 - Automated HMI log analysis and reporting (Python + Embedded systems)  
 - Business performance dashboards in Power BI  
 - SQL reporting pipelines for structured insights  
-- Excel dashboards for KPI visualization  
+- Excel dashboards for KPI visualization
+### Python
+- [Data Cleaning & Business Rules](./python-projects/data-cleaning-business-rules)
+
+### Power BI
+- [ShopNest Store Performance Dashboard](./shopnest-store-performsnce-dashboard)
+
 
 ## 🌟 About Me
 I combine **technical problem-solving** with **business analytics expertise** to deliver impactful solutions.  
