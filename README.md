@@ -8,6 +8,9 @@ My career journey bridges **engineering expertise** with **data-driven insights*
 - **Data Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (joins, window functions, reporting), Excel (dashboards, pivot tables), Power BI (interactive dashboards, DAX, slicers)  
 - **Leadership:** Task assignment, mentoring, capacity planning, client presentations  
 
+---
+
+
 ## 📊 Projects
 - Automated HMI log analysis and reporting (Python + Embedded systems)  
 - Business performance dashboards in Power BI  
@@ -19,6 +22,24 @@ My career journey bridges **engineering expertise** with **data-driven insights*
 ### Power BI
 - [ShopNest Store Performance Dashboard](./shopnest-store-performsnce-dashboard)
 
+
+---
+
+## 🏆 Achievements
+- Delivered analytics automation projects that reduced manual reporting time by 40%  
+- Led a team of 5 engineers to complete embedded + analytics integration ahead of schedule  
+- Awarded "Best Engineer – Embedded Systems" at HCL Technologies (2022)  
+- Successfully transitioned into analytics by completing Skillovilla capstone projects in Python & Power BI  
+
+---
+
+## 📜 Certifications
+- Microsoft Certified: Data Analyst Associate  
+- Power BI Advanced Training – Skillovilla  
+- Python for Data Analytics – Coursera  
+- SQL for Business Analytics – Udemy  
+
+---
 
 ## 🌟 About Me
 I combine **technical problem-solving** with **business analytics expertise** to deliver impactful solutions.  
