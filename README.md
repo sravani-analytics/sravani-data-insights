@@ -17,10 +17,10 @@ My career journey bridges **engineering expertise** with **data-driven insights*
 - SQL reporting pipelines for structured insights  
 - Excel dashboards for KPI visualization
 ### Python
-- [Data Cleaning & Business Rules](./python-projects/data-cleaning-business-rules)
+- [Data Cleaning & Business Rules](https://github.com/sravani-analytics/python-data-cleaning-automation)
 
 ### Power BI
-- [ShopNest Store Performance Dashboard](./shopnest-store-performsnce-dashboard)
+- [ShopNest Store Performance Dashboard](https://github.com/sravani-analytics/shopnest-store-performance-dashboard)
 
 
 ---
